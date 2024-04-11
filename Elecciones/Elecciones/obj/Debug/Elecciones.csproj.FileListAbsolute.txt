@@ -1,0 +1,29 @@
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\bin\Debug\Elecciones.exe.config
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\bin\Debug\Elecciones.exe
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\bin\Debug\Elecciones.pdb
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.csprojAssemblyReference.cache
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Form1.resources
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Properties.Resources.resources
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.GenerateResource.cache
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.exe
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.pdb
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.principal.resources
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Registro.resources
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.VotacionesLocales.resources
+C:\Users\Aldo Antonio\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Cuenta.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\bin\Debug\Elecciones.exe.config
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\bin\Debug\Elecciones.exe
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\bin\Debug\Elecciones.pdb
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.AssemblyReference.cache
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Cuenta.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Form1.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.principal.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Properties.Resources.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Registro.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.VotacionesLocales.resources
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.GenerateResource.cache
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.csproj.CoreCompileInputs.cache
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.exe
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.pdb
+C:\Users\aldoo\OneDrive\Escritorio\TEC\5to Semestre\Principios electricos\Elecciones\Elecciones\obj\Debug\Elecciones.Rvotos.resources
